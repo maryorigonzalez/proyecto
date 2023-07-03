@@ -19,3 +19,5 @@ fourth item: debemos preparar horno a 180 grados centigrados.
 fifth item: agregaremos las salsa, queso, embutidos, aceituna, Champiñones.
 sixth item: debemos poner a hornear la pizza por 12 minutos.
 seventh item: verificamos con un cuchillo puyando la masa, para ver si esta lista. si sale limpia la masa esta lista, si no dejarlo por 5 minutos mas.
+3. Servir:
+Al tener las pizzas listas se procede a cortar las pizzas en las partes correspondientes al tamaño. Se les agrega los ingredientes extras que el cliente ha solicitado como ser queso, chile o aceite. Por último, se revisa que todo este de acuerdo al pedido y se le entrega al cliente.
